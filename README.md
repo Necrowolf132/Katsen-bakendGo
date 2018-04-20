@@ -10,3 +10,5 @@ el archivo "./main" con permisos de administrador y entrar en tu navegador en la
 al archivo de esa direccion que tiene por nombre "main.go", y luego de obtener el ejecutable correrlo con permisos de administrador y entrar en tu navegador en la direccion http://localhost:90
 
 Hay que recordar eue estre proyecto es un backend realizado en go como lenguaje de alta concurrencia, pero que posse un frontend hecho en Angulasr 5, que se encuentra depositabo en la carpeta Proyecto2BackendGo/src/gofacilito/public
+
+#Realizado por Jese Brito
